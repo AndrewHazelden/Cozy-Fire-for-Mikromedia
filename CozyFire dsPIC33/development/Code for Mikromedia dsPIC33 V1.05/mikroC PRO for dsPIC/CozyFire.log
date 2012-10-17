@@ -1,0 +1,19 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP33FJ256GP710A -DL -SSA -O11111114 -fo64 -N"C:\Users\dsi\Desktop\Cozy Fire VisualTFT Project\CozyFire_Code\mikroC PRO for dsPIC\CozyFire.mcpds" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\" -SP"C:\Users\dsi\Desktop\Cozy Fire VisualTFT Project\CozyFire_Code\mikroC PRO for dsPIC\" -IP"C:\Users\dsi\Desktop\Cozy Fire VisualTFT Project\CozyFire_Code\mikroC PRO for dsPIC\" "CozyFire_main.c" "CozyFire_events_code.c" "CozyFire_driver.c" "CozyFire_resources.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_ADC_12_p24HJ_p33.mcl" "__Lib_SPI_12.mcl" "__Lib_Mmc.mcl" "__Lib_MmcFat16.mcl" "__Lib_MmcFat16Constants.mcl" "__Lib_TFT.mcl" "__Lib_TouchPanel_TFT.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	126	All files Preprocessed in 437 ms	 
+diagnostics: 0	122	Compilation Started	cozyfire_objects.h
+diagnostics: 74	123	Compiled Successfully	CozyFire_main.c
+diagnostics: 0	122	Compilation Started	cozyfire_objects.h
+diagnostics: 26	123	Compiled Successfully	cozyfire_objects.h
+diagnostics: 0	122	Compilation Started	cozyfire_objects.h
+diagnostics: 299	123	Compiled Successfully	CozyFire_driver.c
+diagnostics: 0	122	Compilation Started	CozyFire_resources.c
+diagnostics: 145	123	Compiled Successfully	CozyFire_resources.c
+diagnostics: 0	127	All files Compiled in 546 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 1468   Dynamic RAM (bytes): 29252	Static RAM (bytes): 1468   Dynamic RAM (bytes): 29252
+hint: 0	1144	Used ROM (bytes): 15917 (9%)  Free ROM (bytes): 159187 (91%)	Used ROM (bytes): 15917 (9%)  Free ROM (bytes): 159187 (91%)
+diagnostics: 0	125	Project Linked Successfully	CozyFire.mcpds
+diagnostics: 0	128	Linked in 827 ms	 
+diagnostics: 0	129	Project 'CozyFire.mcpds' completed: 2449 ms	 
+diagnostics: 0	103	Finished successfully: 16 Oct 2012, 08:53:08	CozyFire.mcpds

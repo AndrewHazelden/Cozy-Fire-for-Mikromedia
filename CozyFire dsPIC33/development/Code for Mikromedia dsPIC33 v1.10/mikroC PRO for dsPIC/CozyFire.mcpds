@@ -1,0 +1,73 @@
+[DEVICE]
+Name=P33FJ256GP710A
+Clock=80000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=cozyfire_image_sequence.h
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[FILES]
+Count=4
+File0=CozyFire_main.c
+File1=CozyFire_events_code.c
+File2=CozyFire_driver.c
+File3=CozyFire_resources.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=5
+File0=CozyFire_main.c
+File1=CozyFire_events_code.c
+File2=cozyfire_image_sequence.h
+File3=CozyFire_objects.h
+File4=CozyFire_resources.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=3
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\uses\
+Path2=C:\Users\dsi\Desktop\Cozy Fire VisualTFT Project\CozyFire_Code\mikroC PRO for dsPIC\
+[HEADER_PATH]
+Count=1
+Path0=C:\Users\dsi\Desktop\Cozy Fire VisualTFT Project\CozyFire_Code\mikroC PRO for dsPIC\
+[HEADERS]
+Count=3
+File0=CozyFire_objects.h
+File1=CozyFire_resources.h
+File2=CozyFire_image_sequence.h
+[PLDS]
+Count=0
+[Useses]
+Count=11
+File0=C_Type
+File1=Spi
+File2=Mmc_FAT16_Defs
+File3=Mmc_FAT16_Config
+File4=Mmc_FAT16
+File5=Mmc
+File6=TFT_TouchPanel
+File7=ADC
+File8=TFT_Fonts
+File9=TFT
+File10=C_String
+[EXPANDED NODES]
+Node1=Sources
+Node2=Header Files
+Count=2
